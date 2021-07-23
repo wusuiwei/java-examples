@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>spring-data-jpa-examples</module>
         <module>jpa-examples</module>
         <module>mybatis-examples</module>
         <module>java8-examples</module>
